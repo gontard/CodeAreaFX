@@ -1,7 +1,5 @@
 codearea.behavior
 codearea.control
-codearea.demo
-codearea.rx
 codearea.skin
-codearea.undo
-codearea.undo.impl
+undo
+undo.impl
